@@ -28,18 +28,6 @@ It includes real-world implementations of data pipelines, medallion architecture
 - ⏳ Airflow Integration (Planned)
 - ⏳ dbt Transformations (Planned)
 
----
-
-## 🔥 Projects Included
-
-### 1. Medallion Architecture Pipeline
-- Bronze: Raw data ingestion
-- Silver: Data cleaning & transformations
-- Gold: Aggregated business-level data
-
-> Goal: Build scalable and production-ready data pipelines
-
----
 
 ## 🛠️ Tech Stack
 
@@ -86,7 +74,3 @@ It includes real-world implementations of data pipelines, medallion architecture
 ## 🙌 About Me
 
 Data Engineer passionate about building scalable data pipelines and evolving into AI-driven data systems using Generative AI and cloud technologies.
-
----
-
-⭐ If you find this useful, feel free to star the repo!
